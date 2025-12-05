@@ -3,39 +3,7 @@
     "header": ""
   },
   "Column2": {
-    "header": "Resources",
-    "footerItem": [
-      {
-        "label": "Blog",
-        "href": "/blog",
-        "_template": "stringItem"
-      },
-      {
-        "label": "Documentation",
-        "href": "/docs",
-        "_template": "stringItem"
-      },
-      {
-        "label": "Examples",
-        "href": "/examples",
-        "_template": "stringItem"
-      },
-      {
-        "label": "Compare Tina",
-        "href": "/compare-tina",
-        "_template": "stringItem"
-      },
-      {
-        "label": "Support",
-        "href": "/docs/support",
-        "_template": "stringItem"
-      },
-      {
-        "label": "Media",
-        "href": "/media",
-        "_template": "stringItem"
-      }
-    ]
+    "header": "Resources"
   },
   "Column3": {
     "footerItem": [
